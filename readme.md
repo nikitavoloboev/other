@@ -7,7 +7,8 @@
 
 ## WIP
 
-- [better-auth-ronin](https://github.com/nikitavoloboev/better-auth-ronin)
+- [base-safari](https://github.com/nikitavoloboev/base-safari) - Block distracting websites during focus times
+- [better-auth-ronin](https://github.com/nikitavoloboev/better-auth-ronin) - Better Auth plugin for Ronin
 
 ## Not in use
 
